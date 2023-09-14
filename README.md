@@ -1,5 +1,6 @@
 # Movies
 
+### API Key => 0001c5afc79d339b7b0256e6b018ef26
 
 Absolutely! Let's create a Movie Explorer using the TMDB (The Movie Database) API.
 
